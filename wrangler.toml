@@ -1,0 +1,16 @@
+name = "sink"
+pages_build_output_dir = "dist"
+
+compatibility_date = "2025-05-08"
+compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "KV"
+id = "755e440b3854424292bcced1639b4fa6"
+
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "sink"
+
+[ai]
+binding = "AI"
